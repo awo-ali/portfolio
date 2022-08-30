@@ -1,0 +1,40 @@
+.about{
+    display: flex;
+border: 2px solid black;
+justify-content: space-evenly;
+align-items: center;
+height: 800px;
+padding: 40px;
+
+&__title{
+    color: #000000; 
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 58px;
+    padding-bottom: 30px;
+    // padding: 40px;
+}
+
+&__info{
+    // width: 600px;
+    color: #8C9CB1;
+    font-size: 18px;
+    // padding: 40px;
+    
+}
+
+&__photo{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+&__image{
+    height: 450px;
+}
+
+&__squiggle{
+width: 100px;
+
+}
+}
