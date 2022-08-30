@@ -1,0 +1,66 @@
+.footer {
+  background: #272643;
+  display: flex;
+  justify-content: space-between;
+  width: 98vw;
+  height: 100px;
+
+  &__email {
+    color: #ffffff;
+    font-size: 18px;
+    padding: 40px;
+  }
+
+  &__info {
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    padding-right: 30px;
+  }
+
+  &__github {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background: #bae8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  &__linkedin {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background: #bae8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  &__cv {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background: #bae8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__icons {
+    height: 15px;
+  }
+
+  &__icon-cv {
+    height: 12px;
+  }
+}
+
+// display: flex;
+//      justify-content: center;
+//      align-items: center;
+//      border-radius: 50%;
+//      height: 35px;
+//      width: 35px;
+//      border-radius: 50%;
