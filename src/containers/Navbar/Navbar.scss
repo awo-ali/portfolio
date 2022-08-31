@@ -24,8 +24,11 @@ background: #F7FAFA;
         justify-content: space-between;
         align-items: center;
         padding: 20px;
-        // border: 2px solid black;
         width: 500px;
+        list-style-type: none;
+        // margin: 0;
+        // padding: 0;
+        
         
     }
 
@@ -40,5 +43,6 @@ background: #F7FAFA;
     }
     &__links-styling{
         color: #8C9CB1;
+        text-decoration: none;
     }
 }
