@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div className="about">
       <div className="about__content">
-        <h1 className="about__title">About Me</h1>
+        <h1 id="about" className="about__title">About Me</h1>
         <p className="about__info">
           Nulla ac praesent tempor, orci sit nunc eget. Aliquam urna nunc,
           viverra sed tortor non. Id at pellentesque mauris at tincidunt
@@ -15,8 +15,8 @@ const About = () => {
           imperdiet. Integer fames maecenas amet, consequat. Et cursus gravida
           enim lorem urna, vivamus pulvinar porttitor. Ultrices neque nec
           feugiat ullamcorper ultricies ante sagittis commodo.
-          <br />
-           <br /> Nunc malesuada
+          <br/> <br/> 
+          Nunc malesuada
           amet at eget consectetur sit. Nibh in ut diam nulla sed porttitor et.
           At neque tellus convallis urna, sodales neque. In enim auctor diam
           nunc duis rutrum adipiscing pellentesque eu. In sollicitudin neque
