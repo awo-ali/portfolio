@@ -1,0 +1,28 @@
+.cardsContainer {
+//   border: 2px solid red;
+  margin: 50px;
+//   margin-top: 40px;
+padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__heading {
+    color: #272643;
+    text-align: center;
+    margin: 70px;
+    width: 160px;
+    font-weight: 600;
+    font-size: 28px;
+    border-bottom: 12px solid #bae8e8;
+    line-height: 0.2;
+  }
+
+  &__content {
+    // border: 2px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 50px;
+  }
+}
