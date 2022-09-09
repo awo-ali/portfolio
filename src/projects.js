@@ -8,29 +8,29 @@ export const projectsArray =
 
     },
     {
-        "language":"JAVE, SPRING BOOT",
-        "title":"REST API",
+        "language":"JAVA, SPRING BOOT",
+        "title":"Full-stack project",
         "description":"Maecenas accumsan tincidunt id et in ut diam sit. Metus, nec, augue urna gravida nisl, tortor sapien nec sollicitudin.",
     },
     {
         "language":"REACT",
         "title":"Punk API",
-        "description":"Maecenas accumsan tincidunt id et in ut diam sit. Metus, nec, augue urna gravida nisl, tortor sapien nec sollicitudin.",
+        "description":"An app built using Brewdogs Punk API. A catalogue of beers is generated that can then be filtered and searched through.",
 
     },
     {
         "language":"REACT",
-        "title":"REST API",
-        "description":"Maecenas accumsan tincidunt id et in ut diam sit. Metus, nec, augue urna gravida nisl, tortor sapien nec sollicitudin.",
+        "title":"Ticket Tracker",
+        "description":"Ticket tracker app .",
     },
     {
-        "language":"REACT",
-        "title":"Punk API",
+        "language":"VANILLA JAVASCRIPT",
+        "title":"Calculator",
         "description":"Maecenas accumsan tincidunt id et in ut diam sit. Metus, nec, augue urna gravida nisl, tortor sapien nec sollicitudin.",
     }, 
     {
-        "language":"REACT",
-        "title":"Client Project",
+        "language":"VANILLA JAVASCRIPT",
+        "title":"Quiz",
         "description":"Maecenas accumsan tincidunt id et in ut diam sit. Metus, nec, augue urna gravida nisl, tortor sapien nec sollicitudin.",
     }
 
