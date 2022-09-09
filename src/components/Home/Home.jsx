@@ -11,7 +11,6 @@ const Home = () => {
         <h1 className="home__intro-styling">Hey! I'm Awo Ali</h1>
         <img className="home__icon" src={wave} alt="" />
       </div>
-
       <h2 className="home__title"> A Junior Software Developer</h2>
       <img className="home__underline" src={underline} alt="" />
       <h3 className="home__title">based in the UK.</h3>
