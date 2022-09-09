@@ -1,8 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+
 .navbar{
     width: 98%;
     height: 80px;
 //   background: #E5E5E5;
-background: #F7FAFA;
+// background: #F7FAFA;
     // border: 2px solid red;
     display: flex;
     justify-content: space-between;
@@ -14,9 +16,12 @@ background: #F7FAFA;
         display: flex;  
         align-items: center;
         justify-content: center;
-        font-weight: 700;
+        // font-weight: 700;
+        font-family: Sacramento, cursive;
+        font-weight: lighter;
         font-size: larger;
-        color: #272643;
+        // color: #272643;
+        color: #8C9CB1;
     }
 
     &__links{

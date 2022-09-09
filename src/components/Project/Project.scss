@@ -1,12 +1,12 @@
 .project {
 // border: 2px solid black;
-width: 250px;
-height: 400px;
+width: 350px;
+height: 500px;
 margin: 20px;
 
   &__screenshot {
-    height: 160px;
-    width: 250px;
+    height: 260px;
+    width: 350px;
     background: #bae8e8;
     border-radius: 5px;
   }
@@ -28,7 +28,7 @@ margin: 20px;
 
   &__title {
     color: #272643;
-    font-size: 30px;
+    font-size: 32px;
   }
 
   &__description {
@@ -45,7 +45,7 @@ margin: 20px;
   &__links-styling {
     display: flex;
     align-items: center;
-    width: 100px;
+    width: 130px;
     display: flex;
   }
   &__link {
@@ -53,22 +53,12 @@ margin: 20px;
     font-size: 16px;
     font-weight: 600;
     padding-right: 10px;
+    text-decoration:none;
   }
 
   &__eye {
-    position: relative;
-    top: 0;
-    left: 0;
+   height: 25px;
+   width: 25px;
   }
 
-  &__eye-1 {
-    position: relative;
-    top: 0;
-    left: 0;
-  }
-  &__eye-2 {
-    position: absolute;
-    top: 4px;
-    left: 7px;
-  }
 }
