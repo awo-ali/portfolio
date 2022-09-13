@@ -1,53 +1,50 @@
 @import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
 
-.navbar{
-    width: 98%;
-    height: 80px;
-//   background: #E5E5E5;
-// background: #F7FAFA;
-    // border: 2px solid red;
+.navbar {
+  width: 98%;
+  height: 80px;
+  //   background: #E5E5E5;
+  // background: #F7FAFA;
+  // border: 2px solid red;
+  display: flex;
+  justify-content: space-between;
+
+  &__logo {
+    padding: 20px;
+    // border: 2px solid black;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // font-weight: 700;
+    font-family: Sacramento, cursive;
+    font-weight: lighter;
+    font-size: 28px;
+    // color: #272643;
+    color: #8c9cb1;
+  }
+
+  &__links {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    width: 500px;
+    list-style-type: none;
+    // margin: 0;
+    // padding: 0;
+  }
 
-    &__logo{
-        padding: 20px;
-        // border: 2px solid black;
-        width: 250px;
-        display: flex;  
-        align-items: center;
-        justify-content: center;
-        // font-weight: 700;
-        font-family: Sacramento, cursive;
-        font-weight: lighter;
-        font-size: larger;
-        // color: #272643;
-        color: #8C9CB1;
-    }
-
-    &__links{
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 20px;
-        width: 500px;
-        list-style-type: none;
-        // margin: 0;
-        // padding: 0;
-        
-        
-    }
-
-    &__contact{
-        font-weight: 700;
-        padding: 10px;
-        border-radius: 5px;
-        border: 1px solid #272643;
-        background: #BAE8E8;
-        color: #272643;
-       
-    }
-    &__links-styling{
-        color: #8C9CB1;
-        text-decoration: none;
-    }
+  &__contact {
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #272643;
+    background: #bae8e8;
+    color: #272643;
+  }
+  &__links-styling {
+    color: #8c9cb1;
+    text-decoration: none;
+  }
 }
