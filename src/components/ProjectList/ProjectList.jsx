@@ -8,7 +8,10 @@ const ProjectList = ({ projects }) => {
       <Project
         language={projects.language}
         title={projects.title}
+        image={projects.image}
         description={projects.description}
+        code={projects.code}
+        preview={projects.preview}
       />
     ));
   };

@@ -1,23 +1,23 @@
 .project {
-// border: 2px solid black;
-width: 350px;
+width: 400px;
 height: 500px;
 margin: 20px;
 
   &__screenshot {
-    height: 260px;
-    width: 350px;
+    height: 230px;
+    width: 430px;
     background: #bae8e8;
     border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
-  &__section {
+  &__image{
+    height: auto;
+    width: 400px;
     border: 2px solid black;
-    width: 250px;
-    height: 400px;
-  
   }
-
 
   &__language {
     color: #bae8e8;
