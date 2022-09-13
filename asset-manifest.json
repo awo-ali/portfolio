@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b7386867.css",
-    "main.js": "/portfolio/static/js/main.3dd1c459.js",
+    "main.css": "/portfolio/static/css/main.015dcdeb.css",
+    "main.js": "/portfolio/static/js/main.21858eb2.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/photo.png": "/portfolio/static/media/photo.e15477a1918bf9c0d3e6.png",
+    "static/media/playerCards.png": "/portfolio/static/media/playerCards.6ad7c440d16d4d95f250.png",
+    "static/media/beer-cards.png": "/portfolio/static/media/beer-cards.772138129f67a1cb5ebd.png",
+    "static/media/profile-pic.jpg": "/portfolio/static/media/profile-pic.47374028f9e0e84f4f3b.jpg",
+    "static/media/ticket-tracker.png": "/portfolio/static/media/ticket-tracker.10f06bb2d1c8efe4c6ab.png",
+    "static/media/eye.png": "/portfolio/static/media/eye.c19b9e3590579a3ec888.png",
     "index.html": "/portfolio/index.html",
-    "main.b7386867.css.map": "/portfolio/static/css/main.b7386867.css.map",
-    "main.3dd1c459.js.map": "/portfolio/static/js/main.3dd1c459.js.map",
+    "main.015dcdeb.css.map": "/portfolio/static/css/main.015dcdeb.css.map",
+    "main.21858eb2.js.map": "/portfolio/static/js/main.21858eb2.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7386867.css",
-    "static/js/main.3dd1c459.js"
+    "static/css/main.015dcdeb.css",
+    "static/js/main.21858eb2.js"
   ]
 }
