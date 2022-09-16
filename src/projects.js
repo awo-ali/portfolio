@@ -9,9 +9,9 @@ export const projectsArray = [
     language: "JAVA, SPRING BOOT",
     title: "Full-stack project",
     description:
-      "Maecenas accumsan tincidunt id et in ut diam sit. Metus, nec, augue urna gravida nisl, tortor sapien nec sollicitudin.",
+      "I built a full-stack app using React, Java, Spring Boot & MySQL. I decided on a Southampton-FC fan page for my youngest brother, their biggest fan.",
     code: "https://github.com/awo-ali/full-stack-project",
-    preview:"https://awo-ali.github.io/beer-cards-challenge/"
+    preview:"https://awo-ali.github.io/full-stack-project/"
   },
   {
     id: "2",
@@ -31,7 +31,7 @@ export const projectsArray = [
     description:
       "Ticket tracker app, built in react, with an add an employee function.",
     code: "https://github.com/awo-ali/ticket-tracker-challenge",
-    preview:"https://awo-ali.github.io/beer-cards-challenge/"
+    preview:"https://awo-ali.github.io/ticket-tracker-challenge/"
   },
 ];
 

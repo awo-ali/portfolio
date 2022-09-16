@@ -14,7 +14,7 @@ const Skills = () => {
   return (
     <div className="skills">
         <h1 className="skills__title">Techinal Skills</h1>
-        <p className="skills__description">These are some of the technical skills I have acquired on my journey to becoming a junior full-stack software engineer.</p>
+        <p className="skills__description">These are some of the technical skills I have acquired on my journey to becoming a junior full-stack software developer.</p>
      <div className="skills__list">
         <div className="skills__block">
             <img className="skills__icons" src={GIT} alt="" />
